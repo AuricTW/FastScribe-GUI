@@ -1,0 +1,5 @@
+faster-whisper>=1.0.0
+gradio==4.44.0
+huggingface-hub==0.25.2
+yt-dlp>=2024.10.0
+ffmpeg-python>=0.2.0
