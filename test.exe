@@ -1,0 +1,7 @@
+deactivate
+rmdir /s /q .venv   # Windows
+# rm -rf .venv      # mac/linux
+
+py -3.12 -m venv .venv   # Windows 建 3.12 venv
+.\.venv\Scripts\activate
+pip install -r requirements.txt
