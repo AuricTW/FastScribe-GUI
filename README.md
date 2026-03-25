@@ -4,7 +4,7 @@
 FastScribe GUI 是一個使用 **[faster-whisper](https://github.com/SYSTRAN/faster-whisper)** 與 **[Gradio](https://gradio.app/)** 建立的本地逐字稿應用程式，專門用來將：
 
 - 本機音訊檔（`mp3`, `wav`, `m4a`…）
-- 本機影片檔（`mp4`, `mkv`…）
+- 本機影片檔（`mp4`, `mkv`…） 
 - **YouTube 影片連結**
 
 轉換為文字逐字稿，並輸出為 **TXT / SRT 字幕檔**。  
