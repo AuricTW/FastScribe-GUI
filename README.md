@@ -1,5 +1,5 @@
 # FastScribe GUI 
-基於 Faster-Whisper 的本地逐字稿小工具
+基於 Faster-Whisper 的本地逐字稿小工具 
 
 FastScribe GUI 是一個使用 **[faster-whisper](https://github.com/SYSTRAN/faster-whisper)** 與 **[Gradio](https://gradio.app/)** 建立的本地逐字稿應用程式，專門用來將：
 
